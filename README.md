@@ -1,3 +1,3 @@
-# About
+# hshmp
 
-I am hshmp (pronounced *hash map*), a software developer.
+Software Developer & Data Scientist
